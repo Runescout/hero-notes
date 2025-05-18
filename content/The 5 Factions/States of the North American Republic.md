@@ -4,11 +4,7 @@ draft: false
 tags:
 ---
 ---
-title: 
-draft: false
-tags:
----
- 
+
 
 
 ![[Confederation of States.jpg]]
