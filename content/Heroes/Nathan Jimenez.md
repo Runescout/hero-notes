@@ -4,4 +4,4 @@ draft: false
 tags:
 ---
  
-![[Nathan Jimenez.pdf]]![[serd.png]]
+![[Nathan Jimenez.pdf]]![[public/serd.png]]

@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Heroes Wanted
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+| [[States of the North American Republic]] | [[Newels City Locations]] |
+| ----------------------------------------- | ------------------------- |
+|                                           |                           |

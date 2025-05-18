@@ -22,13 +22,4 @@ The city is not without its secrets. Rumors persist of old bunkers hidden beneat
 One hundred years after the end of the war, Newels City remains the single most ambitious project of the Second Founding. It is a place where ghosts of the past walk beside the architects of the future, where the ruins of empire lie beneath skyways of progress. It is both sanctuary and staging ground, a perpetual question posed in steel and stone: Can peace be permanent? Or is the city, like those who built it, merely holding its breath between storms?
 
 
-Notable Landmarks
-- [[Colossus of Freedom]]
-- [[Highland Zoo]]
-- [[Newels City National Museum]]
-- [[The Jungle Pit]]
-- [[United Nations Headquarters]]
-- [[Unity Park]]
-- [[Verne College of Applied Technology]]
-- [[Port Resolute]]
-- [[Shepheard's Cathedral]]
+
