@@ -1,0 +1,7 @@
+---
+title: United Nations Headquarters
+draft: false
+tags:
+---
+ 
+The **United Nations Headquarters of Newels City**, often referred to simply as **UN:N**, stands as the primary global diplomatic hub of the 22nd century—a gleaming vertical arcology that rises above the River Concord skyline like a shard of glass thrust into the sky. Reestablished after the Second Founding and relocated from its long-abandoned original site, the headquarters reflects a reinvigorated mandate: not just to preserve peace, but to manage the volatile balance of sovereign micro-nations, and post-factional alliances across the globe. Within its fortified halls, human delegates share floor space with synthetic representatives and virtual proxies, all governed by the updated **Civic Compact Protocols**, which prioritize ecological sustainability, cultural autonomy, and AI rights. The building’s core, known as the **Consensus Spire**, hosts a rotating plenary forum where even the most ideologically opposed entities must negotiate face-to-face. Though the UN’s authority is limited in many regions, its presence in Newels City symbolizes a fragile but enduring hope—that even after collapse, diplomacy can still outlast war.

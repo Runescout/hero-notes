@@ -1,0 +1,7 @@
+---
+title: Verne College of Applied Technology
+draft: false
+tags:
+---
+ 
+**Verne College of Applied Technology**, perched on the southern tech spine of Newels City, is one of the continent’s most prestigious institutions for pragmatic innovation and postwar engineering. Founded in 2103 and named after Julianna Verne—the same visionary behind the Highland Zoo—the college was established with a singular mission: to develop technologies that serve survival, sustainability, and peacekeeping in a fractured world. Its brutalist towers are softened by living walls of moss and lichen, a deliberate blend of industrial resolve and ecological stewardship. The curriculum fuses traditional engineering with adaptive biotech, AI-integrated logistics, and faction-specific fabrication techniques, producing graduates who are equal parts scientist, technician, and negotiator. The campus is famed for its open research labs, where students work on everything from autonomous hydrogrid systems to modular exosuits for terrain diplomacy. Though officially apolitical, Verne College often finds itself at the intersection of diplomacy and defense—its brightest minds quietly recruited by all five nations to help shape the infrastructure of the fragile peace.

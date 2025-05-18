@@ -1,0 +1,9 @@
+---
+title: Aegis Consortium
+draft: false
+tags:
+---
+ 
+**The Aegis Consortium** is a secretive and influential technocratic society that quietly formed within the research wings of [[Verne College of Applied Technology]] during the late 22nd century. What began as a postwar ethics committee evolved into a powerful gatekeeping body—one that now oversees the classification, containment, and, when necessary, erasure of technologies deemed too dangerous for public release. Cloaked in academic legitimacy, the Consortium operates under the principle of _Preemptive Containment_: the belief that certain innovations, no matter how well-intended, pose existential risks to global stability if widely disseminated. Members are drawn from the top ranks of Verne’s research elite and must pass a series of psychological and ideological screenings to prove their allegiance to secrecy and restraint.
+
+The Consortium maintains secure vaults beneath the college grounds—subterranean databanks and prototype chambers known colloquially as the **Deep Curricula**. Within these vaults lie abandoned weaponized AI frameworks, gene-mutable bioweapons, autonomous systems capable of rewriting legal code, and devices recovered from black site labs dating back to the Fracture Years. While officially unaffiliated with any government, the Aegis Consortium is whispered to have influence within all five nations, advising high councils and trade unions alike through backchannels. Their critics call them technocrats playing god; their defenders see them as the last line of defense against another collapse. The truth, as always, lies buried—just like the machines they keep from waking.

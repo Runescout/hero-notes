@@ -1,0 +1,9 @@
+---
+title: Unity Park
+draft: false
+tags:
+---
+ 
+**Unity Park** stretches across the heart of Newels City, a vast sanctuary where rewilded forest meets sculpted memorial, and silence drapes the stone paths like old moss. Carved from what was once a war-scarred neutral zone, the park now stands as a breathing monument to reconciliation—its air thick with the scent of cedar and riverwind, its skyline broken only by the soaring branches of transcontinental flora. Designed in collaboration by all five postwar nations, the park is divided not by walls but by subtle shifts in biome: Cascadian mist groves blend into Dominion hedge pavilions, which in turn give way to Appalachian rock gardens and Red River wildflower plains. Neon moths flicker through the dusk, and public orators often gather in the southern amphitheater to recite peace oaths, protest policy, or simply tell stories in the shared tongue of the Second Founding.
+
+Families picnic along the central green, lovers vanish into the shaded hollows of memory alcoves, and children toss grain to the sky cranes nesting near the wetlands. The glacial pond on the park’s east end draws quiet wanderers in every season, its still waters reflecting the shifting lights of the city beyond like a dream held in glass. Just beyond it, near the tree-split ridge, lies a half-forgotten cave mouth—small, unmarked, and almost completely obscured by ivy and brush. It’s not listed on park guides or drone maps, and most pass it without a second glance, assuming it's just a leftover scar in the land’s long healing. But the city remembers things in layers, and Unity Park, like Newels itself, sometimes holds onto what it’s not quite ready to forget.
