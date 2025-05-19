@@ -2,6 +2,7 @@
 title: Newels City Locations
 draft: false
 tags:
+  - Index
 ---
  
 ``
