@@ -17,7 +17,7 @@ Eyes: Brown
 Height: 5" 4'
 
 Family
-- [[Michael Laeks]](husband)
+- [[Michael Laeks]] (husband)
 	- [[Andrew Laeks]](son)
 	- [[Ashton Laeks]](son)
 
