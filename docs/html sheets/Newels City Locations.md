@@ -1,4 +1,10 @@
-
+---
+title: Newels City Locations
+draft: false
+tags:
+---
+ 
+``
 Notable Landmarks
 - [[Colossus of Freedom]]
 - [[Highland Zoo]]
