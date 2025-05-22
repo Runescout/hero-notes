@@ -16,3 +16,4 @@ Notable Landmarks
 - [[Verne College of Applied Technology]]
 - [[Port Resolute]]
 - [[Shepheard's Cathedral]]
+- [[Veterans of the Second Founding Memorial Cemetery]]

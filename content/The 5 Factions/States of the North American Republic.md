@@ -2,6 +2,7 @@
 title: States of the North American Republic
 draft: false
 tags:
+  - Index
 ---
 ---
 
